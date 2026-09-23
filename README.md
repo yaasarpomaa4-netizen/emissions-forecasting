@@ -271,7 +271,7 @@ install.packages(c("astsa", "forecast", "here", "readxl"))
 ### Instructions
 
 1. Clone or download this repository.
-2. Open `ghana-emissions-forecasting.Rproj` in RStudio.
+2. Open `Emissions.Rproj` in RStudio.
 3. Place the data file at `data/GHG_emissions.xlsx`.
 4. Install the required packages.
 5. Open `scripts/emissions_analysis.R`.
