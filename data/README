@@ -1,0 +1,12 @@
+# Data
+
+The analysis uses annual greenhouse gas emissions from energy data
+for Ghana from 1971 through 2023.
+
+- Source: International Energy Agency
+- Unit: Million tonnes of CO₂ equivalent
+- Expected local filename: `GHG_emissions.xlsx`
+
+The original dataset is not included in this repository. Obtain the
+data from the source and place it in this directory before running
+the analysis.
