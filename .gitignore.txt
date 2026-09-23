@@ -1,0 +1,38 @@
+# R session and workspace files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio temporary project files
+.Rproj.user/
+
+# R Markdown and Quarto temporary files
+*_cache/
+*_files/
+.Rproj.user
+.knit.md
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+~$*
+*~
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment files and credentials
+.Renviron
+.env
+.env.*
+*.key
+*.pem
+
+data/*.xlsx
+data/*.xls
+
+# Data documentation
+!data/README.md
